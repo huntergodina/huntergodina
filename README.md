@@ -3,7 +3,7 @@
 - 🙂 Pronouns: He/Him
 - 🏡 From: Chicago, IL
 - 📍 Currently: Lincoln, NE
-- ⏰ Age: 21 Years Old!
+- ⏰ Age: 21 Years Old
 ### Work:
 - ⏪ Previously: Software engineering intern at Project44, Nelnet, and Buckle
 - 🪐 Currently Working: On finishing my bachelor's degrees in computer science, math, and economics
