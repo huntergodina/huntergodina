@@ -21,7 +21,7 @@ Hi! My name is Hunter Godina, and I am a software engineer 💻 by trade and Chi
 
 Now, I enjoy building out solutions for complex technical problems, and trying to find ways to apply technology to real-world issues 🌎 in my community! Most recently, I had the pleasure of building out a couple of applications that spurred some incredible fundraising for Childrens' Hospital of Omaha, which you should checkout below! These two lightweight applications were a blast to hack together.
 
-[Fundraising Dashboard](github.com/huntergodina/undm-dashboard)
+[Fundraising Dashboard](github.com/huntergodina/undm-dashboard)  
 [Event Check-in](github.com/huntergodina/checkin)
 
 If you want to know about some of the other stuff I enjoy working on, feel free to reach out to me! I am always interested in discussing my recent coding projects, my true passion (the Chicago Bears 🐻⬇️), or anything career related. If you want to read some of my thoughts on football or the world, check out my Medium below:
