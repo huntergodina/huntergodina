@@ -3,11 +3,11 @@
 - 🙂 Pronouns: He/Him
 - 🏡 From: Chicago, IL
 - 📍 Currently: Lincoln, NE
-- ⏰ Age: 21 Years Old
+- ⏰ Age: 22 Years Old
 ### Work:
 - ⏪ Previously: Software engineering intern at Project44, Nelnet, and Buckle
-- 🪐 Currently Working: On finishing my bachelor's degrees in computer science, math, and economics
-- 🚀 Headed To: HubSpot as a backend software engineer
+- 🪐 Education: University of Nebraska bachelor's degrees in computer science, math, and economics
+- 🚀 Currently: HubSpot as a backend software engineer
 - 🔭 Looking Forward To: Continuing to build intuitive API solutions and accessible applications
 ### Contact Me:
 - 📩 Email: huntergodina@gmail.com
