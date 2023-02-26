@@ -5,8 +5,8 @@
 - 📍 Currently: Lincoln, NE
 - ⏰ Age: 22 Years Old
 ### Work:
-- ⏪ Previously: Software engineering intern at Project44, Nelnet, and Buckle
 - 🪐 Education: University of Nebraska bachelor's degrees in computer science, math, and economics
+- ⏪ Previously: Software engineering intern at Project44, Nelnet, and Buckle
 - 🚀 Currently: HubSpot as a backend software engineer
 - 🔭 Looking Forward To: Continuing to build intuitive API solutions and accessible applications
 ### Contact Me:
